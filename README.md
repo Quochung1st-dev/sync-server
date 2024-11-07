@@ -26,7 +26,7 @@
 - Làm theo các bước được hỏi trong quá trình cấu hình để thiết lập S3 như một remote cho Rclone.
 - Kiểm tra các gói cài đặt
 - Sau khi cài đặt, bạn có thể kiểm tra lại từng công cụ để đảm bảo tất cả đã sẵn sàng sử dụng:
-```- aws --version
-- lftp --version
-- rclone --version```
+```aws --version
+lftp --version
+rclone --version```
 - Như vậy, bạn đã cài đặt thành công AWS CLI, LFTP, và Rclone trên Ubuntu!
