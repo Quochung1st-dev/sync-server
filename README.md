@@ -26,7 +26,8 @@ lftp --version
 - Rclone có thể được tải trực tiếp từ trang chủ và cài đặt bằng lệnh sau:
 - Tải script cài đặt Rclone
 ~~~
-curl https://rclone.org/install.sh | sudo bash```
+curl https://rclone.org/install.sh | sudo bash
+~~~
 - Kiểm tra phiên bản để xác nhận đã cài đặt thành công
 ~~~
 rclone --version
